@@ -1,0 +1,33 @@
+.header-body {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+.brannd {
+	color: black;
+	font-size: large;
+}
+.buttons {
+	min-width: 300px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.add-button {
+	background: pink;
+	color: white;
+	border-radius: 10px;
+	height: 40px;
+	width: 150px;
+	box-shadow: 5px 5px 50px pink;
+}
+
+.search {
+	background: #2432b9;
+	border: none;
+}
+.menu {
+	background: white;
+	border: none;
+}

@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+.ant-layout-header {
+	color: #fff;
+	background-image: linear-gradient(to right, lavender, lightblue);
+	height: auto;
+	padding: 0 20px;
+}
+.ant-layout-footer {
+	line-height: 1.5;
+}
+.ant-layout-content {
+	min-height: 100vh;
+	color: #fff;
+	line-height: 120px;
+	background-image: linear-gradient(to right, lavender, lightblue);
+}
