@@ -1,0 +1,16 @@
+.ant-card-meta {
+	display: flex;
+	align-items: center;
+}
+.ant-card-meta-detail > div:not(:last-child) {
+	margin: 0px;
+}
+.ant-card-actions {
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+	border-top: none;
+	padding: 0px 24px 12px 24px;
+}
+.ant-card-body {
+	padding: 20px 24px;
+}

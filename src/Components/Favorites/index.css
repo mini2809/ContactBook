@@ -1,0 +1,9 @@
+.f-cards-container {
+	display: flex;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+.f-cards-container::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+}
